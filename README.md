@@ -16,6 +16,7 @@ I am Glorine Vihendah. Iam advancing into full stack software development. I hav
 # Live link - https://gvihendah.github.io/delani-studio/
 
 ## BDD
+The website is made to be fully responsive and can render in any device size. When you contact us, we will throw you a prompt and a follow up email for confirmation. Portfolio elements show details upon hover, what we do elements toggle opon clicking. The mouse icon bounces on hover.
 
 ## Technologies used.
 - HTML
