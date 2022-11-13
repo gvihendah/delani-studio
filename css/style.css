@@ -93,3 +93,9 @@ what-small{
     min-width: 100%;
     background-repeat: no-repeat;
 }
+
+input{
+    border-color: white;
+    background-color: transparent;
+    color: white;
+}
