@@ -63,3 +63,10 @@ body{
     justify-content: space-between;
     margin-top: 2%;
 }
+
+#img-text{
+    font-size: 50px;
+    color: white;
+    /* top: 8px; */
+    position: absolute;
+}
