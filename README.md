@@ -16,3 +16,19 @@ I am Glorine Vihendah. Iam advancing into full stack software development. I hav
 # Live link - https://gvihendah.github.io/delani-studio/
 
 ## BDD
+
+## Technologies used.
+- HTML
+- CSS
+- JS
+- Bootstrap
+- VS code
+- Git
+- JQuery
+
+## Contact information.
+- Email: vihendah247@gmail.com
+- phone : 0724592047
+
+## License and Copyright information.
+(c) 2022 - Glorine Vihendah.
