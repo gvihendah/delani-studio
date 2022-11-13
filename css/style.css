@@ -154,3 +154,26 @@ textarea{
     justify-content: center;
     align-items: center;
 }
+
+#work-one,
+#work-2,
+#work-3,
+#work-4,
+#work-5,
+#work-6,
+#work-7,
+#work-8{
+    position: absolute;
+    display: none;
+    font-weight: bold;
+    height: 80%;
+    width: 80%;
+    background: rgba(0, 0, 0, 0.6);
+    border: solid white;
+    border-width: 4px;
+}
+
+#amazing{
+    font-size: small;
+    margin-top: 3.3%;
+}
