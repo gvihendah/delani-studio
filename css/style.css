@@ -127,3 +127,16 @@ textarea{
     width: 100%;
     font-size: 65%;
 }
+
+#design-text:hover, #design-pic:hover, #prod-pic:hover, #prod-text:hover, #dev-pic:hover, #dev-text:hover{
+    cursor: pointer;
+}
+
+
+#social_icons{
+    display: flex;
+    width: 72%;
+    margin-top: 2%;
+    align-items: center;
+    justify-content: center;
+}
