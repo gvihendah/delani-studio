@@ -77,3 +77,19 @@ body{
     margin-top: 2%;
     text-align: center;
 }
+
+what-small{
+    width: 28%;
+}
+
+#contact_us{
+    background-image: url(../images/backgrounds/c_image.jpg);
+    background-size: 100% 100%;
+    height: max-content;
+    align-items: center;
+    text-align: center;
+    color: white;
+    margin-top: 2%;
+    min-width: 100%;
+    background-repeat: no-repeat;
+}
