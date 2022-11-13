@@ -99,3 +99,11 @@ input{
     background-color: transparent;
     color: white;
 }
+
+::placeholder{
+    color: white;
+}
+
+input{
+    width: 33%;
+}
