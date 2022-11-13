@@ -70,3 +70,10 @@ body{
     /* top: 8px; */
     position: absolute;
 }
+
+#what-we-do{
+    font-size: 20px;
+    min-width: 90%;
+    margin-top: 2%;
+    text-align: center;
+}
