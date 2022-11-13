@@ -117,3 +117,13 @@ textarea{
     margin-top: 1.5%;
     color: white;
 }
+
+#submit{
+    margin-bottom: 1%;
+}
+
+#design-text, #prod-text, #dev-text{
+    display: none;
+    width: 100%;
+    font-size: 65%;
+}
