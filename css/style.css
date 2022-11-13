@@ -140,3 +140,17 @@ textarea{
     align-items: center;
     justify-content: center;
 }
+
+.porfolio-pic1,
+.porfolio-pic2,
+.porfolio-pic3,
+.porfolio-pic4,
+.porfolio-pic5,
+.porfolio-pic6,
+.porfolio-pic7,
+.porfolio-pic8{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
